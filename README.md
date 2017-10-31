@@ -1,6 +1,6 @@
 # GPy
 
-The Gaussian processes framework in Python. hello. 
+The Gaussian processes framework in Python. hello world. 
 <<<<<<< HEAD
 =======
 =======
