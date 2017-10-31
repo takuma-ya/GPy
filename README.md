@@ -1,8 +1,7 @@
 # GPy
 
-The Gaussian processes framework in Python. hello world. 
-=======
->>>>>>> refs/remotes/origin/devel
+The Gaussian processes framework in Python. hello.
+hello world.
 * GPy [homepage](http://sheffieldml.github.io/GPy/)
 * Tutorial [notebooks](http://nbviewer.ipython.org/github/SheffieldML/notebook/blob/master/GPy/index.ipynb)
 * User [mailing-list](https://lists.shef.ac.uk/sympa/subscribe/gpy-users)
