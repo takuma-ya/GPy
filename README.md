@@ -1,7 +1,7 @@
 # GPy
 
 The Gaussian processes framework in Python. hello. 
-<<<<<<< HEAD
+<<<<<<< HEADING
 =======
 =======
 >>>>>>> refs/remotes/origin/devel
